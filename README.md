@@ -1,6 +1,6 @@
 # bmi-classification-ml
 
-This project builds a machine learning model that predicts a person’s BMI category (underweight, normal weight, overweight, or obese) using gender, height, and weight. This was one of my very first data science projects, which I wanted to use to bridge the gap between my knowledge in data science and my interest in nutrition.
+This project builds a machine learning model that predicts a person’s BMI category (underweight, normal weight, overweight, or obese) using gender, height, and weight. I wanted to use to bridge the gap between my knowledge in data science and my interest in nutrition.
 
 Overview
 
